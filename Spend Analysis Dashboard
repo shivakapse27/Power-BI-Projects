@@ -1,0 +1,33 @@
+Spend Analysis Dashboard
+This repository contains the Spend Analysis Dashboard, designed to analyze and visualize spending patterns across various dimensions and KPIs. The dashboard is ideal for tracking financial performance, vendor management, and category-wise expenditure.
+
+Dashboard Overview:-
+Key Performance Indicators (KPIs)
+Spend CY: Current Year Spend.
+Spend PY: Previous Year Spend.
+
+Dimensions:-
+Region: Geographic area of operations.
+Legal Entity: Specific entities involved in the transactions.
+Spend Type: Classification of spending type.
+Category: High-level categorization of spending.
+MTD, FTD, QTD, YTD:
+MTD: Month-to-Date analysis.
+FTD: Fiscal-to-Date analysis.
+QTD: Quarter-to-Date analysis.
+YTD: Year-to-Date analysis.
+
+Features:-
+Spend Comparison: Compare spending for the current year (CY) and previous year (PY).
+Dynamic Filters: Slice data by region, legal entity, spend type, or category.
+Trend Analysis: Analyze spending over MTD, FTD, QTD, and YTD periods.
+
+Use Cases:-
+Financial Monitoring: Track organizational spending and identify cost-saving opportunities.
+Vendor Analysis: Evaluate vendor performance and payment term compliance.
+Trend Analysis: Monitor spending trends across various dimensions over time.
+
+Example Insights:-
+Identify top spending categories contributing to the budget.
+Monitor spending by region and legal entity for strategic allocation.
+Analyze year-over-year trends for improved forecasting.
